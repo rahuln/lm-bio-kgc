@@ -1,0 +1,7 @@
+	id	name	type
+0	0	interacts with	drug-protein
+1	1	is related to	disease-protein
+2	2	interacts with	protein-protein
+3	3	has function	protein-function
+4	4	is a	function-function
+5	5	treats	drug-disease

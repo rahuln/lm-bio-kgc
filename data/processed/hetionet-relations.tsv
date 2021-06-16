@@ -1,0 +1,5 @@
+	id	name	type
+0	0	treats	compound-disease
+1	1	presents with	disease-symptom
+2	2	is associated with	disease-gene
+3	3	causes	compound-sideffect
