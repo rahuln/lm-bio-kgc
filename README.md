@@ -41,11 +41,12 @@ The links below can be used to download a selection of the trained models. We pr
 Once downloaded, the model can be loaded from the `src/lm` directory using the following code:
 
 ```Python
+import torch
 from argparse import Namespace
 from model import KGBERT
 
 dataset = # specify the dataset name here
-nrelations = {'repodb' : 1, 'hetionet' : 4, 'msi' : 5}
+nrelations = {'repodb' : 1, 'hetionet' : 4, 'msi' : 6}
 
 model_name = 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract'
 args = Namespace(model_name=model_name,
