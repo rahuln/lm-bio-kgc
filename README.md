@@ -3,7 +3,8 @@
 This repository contains code to run the experiments described in:
 
 [**Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study**](https://arxiv.org/abs/2106.09700)<br>
-Rahul Nadkarni, David Wadden, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, Tom Hope
+Rahul Nadkarni, David Wadden, Iz Beltagy, Noah A. Smith, Hannaneh Hajishirzi, Tom Hope<br>
+_Automated Knowledge Base Construction (AKBC) 2021_
 
 ## Environment
 
